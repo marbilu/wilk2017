@@ -160,7 +160,8 @@
             },
             "H3": {
               "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "46px"
             }
           },
           "_anchor": "msg-box5-a",
@@ -252,14 +253,14 @@
             },
             ".mbr-cards-col:nth-child(odd) .card-subtitle B": {
               "font-size": "19px",
-              "color": "#efefef"
+              "color": "#ffffff"
             },
             ".mbr-cards-col:nth-child(even) .card-subtitle": {
               "font-size": "20px"
             },
             ".mbr-cards-col:nth-child(even) .card-subtitle B": {
               "text-align": "right",
-              "font-size": "19px"
+              "font-size": "18px"
             },
             ".mbr-cards-col:nth-child(even) .card-subtitle DIV": {
               "text-align": "left"
@@ -321,8 +322,8 @@
             }
           },
           "title2": "KIEDY I GDZIE?",
-          "subtitle2": "<b>7.11.2017</b> <b>- 19.12.2017</b><br><b>Parafia</b>&nbsp;<b>Najświętszej Rodziny</b><br><b style=\"line-height: 1.7857; text-align: left;\">Kraków-Nowy Bieżanów</b>",
-          "caption2": "Będziemy spotykać się od 7 listopada do 19 grudnia 2017 r. w każdy wtorek o godz. 18.00. Odbędzie się więc siedem spotkań. Możecie do nas dojechać środkami komunikacji miejskiej korzystając z linii tramwajowych <a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=3\" target=\"_blank\">3</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=9\" target=\"_blank\">9</a><a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=13\" target=\"_blank\">,13</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=23\" target=\"_blank\">23</a> oraz autobusowych <a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=133\" target=\"_blank\">133</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=163\" target=\"_blank\">163</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=183\" target=\"_blank\">183</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=243\" target=\"_blank\">243</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=503\" target=\"_blank\">503</a>. Ci, którzy lubią spacery mogą skorzystać też z pociągu jadącego z Balic ze stacji <a href=\"https://malopolskiekoleje.pl/index.php/trasy/wieliczka-rynek-kopalnia-krakow-glowny-krakow-lotnisko-airport\" target=\"_blank\">Kraków Lotnisko do Wieliczka Rynek Kopalnia</a> wysiadając na stacji Kraków Bieżanów. Poniżej umieściliśmy mapkę, byście mogli zaplanować dojazd. Będziemy uradowani Waszą obecnością w naszym sanktuarium i zapewniamy, że nie tylko czeka Was niesamowita przygoda w odkrywaniu Żywego Boga, ale wierzymy, że będzie ona również pięknym przygotowaniem do świętowania Bożego Narodzenia.&nbsp;",
+          "subtitle2": "<b>7.11.2017</b> <b>- 19.12.2017</b><br><b>Parafia</b>&nbsp;<b>p.w.</b>&nbsp;<b>Najświętszej Rodziny</b><br><b style=\"line-height: 1.7857; text-align: left;\">Kraków-Nowy Bieżanów</b>",
+          "caption2": "Będziemy spotykać się od 7 listopada do 19 grudnia 2017 r. w każdy wtorek o godz. 18.00. Odbędzie się więc siedem spotkań. Możecie do nas dojechać środkami komunikacji miejskiej korzystając z linii tramwajowych <b><a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=3\" target=\"_blank\">3</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=9\" target=\"_blank\">9</a><a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=13\" target=\"_blank\">,13</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=23\" target=\"_blank\">23</a></b> oraz autobusowych <b><a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=133\" target=\"_blank\">133</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=163\" target=\"_blank\">163</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=183\" target=\"_blank\">183</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=243\" target=\"_blank\">243</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=503\" target=\"_blank\">503</a></b>. Ci, którzy lubią spacery mogą skorzystać też z pociągu jadącego z Balic ze stacji <b><a href=\"https://malopolskiekoleje.pl/index.php/trasy/wieliczka-rynek-kopalnia-krakow-glowny-krakow-lotnisko-airport\" target=\"_blank\">Kraków Lotnisko do Wieliczka Rynek Kopalnia</a> </b>wysiadając na stacji Kraków Bieżanów. Poniżej umieściliśmy mapkę, byście mogli zaplanować dojazd. Będziemy uradowani Waszą obecnością w naszym sanktuarium i zapewniamy, że nie tylko czeka Was niesamowita przygoda w odkrywaniu Żywego Boga, ale wierzymy, że będzie ona również pięknym przygotowaniem do świętowania Bożego Narodzenia.&nbsp;",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
@@ -342,7 +343,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/plakat-do-strony-600x899.jpg",
+              "src": "@PROJECT_PATH@/assets/images/567x850-600x899.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -354,7 +355,7 @@
           },
           "title4": "MATERIAŁY DO POBRANIA",
           "subtitle4": "<b>Włącz się w dzieło ewangelizacji</b>",
-          "caption4": "Nie każdy ma charyzmat głoszenia słowa, ale każdy chrześcijanin powołany jest do włączenia się w misję ewangelizacji. Udostępniamy &nbsp;materiały byście mogli informacją o seminarium podzielić się z innymi, również w mediach społecznościowych. Możecie &nbsp;pobrać, wydrukować i powiesić plakat informujący o naszych spotkaniach lub skontaktować się z nami wykorzystując formularz na dole strony i odebrać wydrukowane już plakaty i ulotki. Udostępnijcie je w Waszych wspólnotach, miejscach pracy, nauki, wśród znajomych, przyjaciół, rodziny.&nbsp;<br>Materiały w formie cyfrowej dostępne są w tym miejscu:<br><b>plakaty do wydrukowania</b><br><b>grafiki do internetu</b><br><span style=\"font-size: 1rem; line-height: 1.5;\">Jeżeli potrzebujesz inne wymiary grafik napisz do nas.</span><br><b>grafika@seminariumwiary.pl</b><br>Wydrukowane materiały można odebrać w:<br><a href=\"http://bfotoarte.pl\" target=\"_blank\">FOTO STUDIO</a>&nbsp;ul. Bieżanowska 1<br>( róg ulic Bieżanowska i Wielicka)<br>30-812 Kraków w&nbsp;godz.10.00-16.00<br>od poniedziałku do piątku.",
+          "caption4": "<p>Nie każdy ma charyzmat głoszenia słowa, ale każdy chrześcijanin powołany jest do włączenia się w misję ewangelizacji. Udostępniamy &nbsp;materiały byście mogli informacją o seminarium podzielić się z innymi, również w mediach społecznościowych. Możecie &nbsp;pobrać, wydrukować i powiesić plakat informujący o naszych spotkaniach lub skontaktować się z nami wykorzystując formularz na dole strony i odebrać wydrukowane już plakaty i ulotki. Udostępnijcie je w Waszych wspólnotach, miejscach pracy, nauki, wśród znajomych, przyjaciół, rodziny.&nbsp;<br>Materiały w formie cyfrowej dostępne są w tym miejscu:<br><a href=\"http://seminariumodnowywiary/a4.jpg\" target=\"_blank\"><b> plakat do wydrukowania A4</b></a><b></b><br><b>grafiki do internetu&nbsp;</b><a href=\"http://seminariumodnowywiary/baner800x800.jpg\" target=\"_blank\"><b>1</b></a><b>,<a href=\"http://github.com/marbilu/wilk2017800x800 baner 2.jpg\" target=\"_blank\">2</a>,<a href=\"http://seminariumodnowywiary.pl/baner800x8003.jpg\" target=\"_blank\">3</a></b><br>Wydrukowane materiały można odebrać w:<br><a href=\"http://bfotoarte.pl\" target=\"_blank\">FOTO STUDIO</a>&nbsp;ul. Bieżanowska 1<br>( róg ulic Bieżanowska i Wielicka)<br>30-812 Kraków w&nbsp;godz.10.00-16.00<br>od poniedziałku do piątku.</p>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
@@ -414,7 +415,7 @@
           "title": "Wpisz swojego e-maila jeżeli planujesz wziąć udział w seminarium&nbsp;",
           "subtitle": "Na seminarium nie obowiązują zapisy. Twój wpis jest dobrowolny i pozwoli nam orientacyjnie określić liczbę zainteresowanych, za co bardzo dziękujemy.",
           "form": {
-            "action": "zapisy@seminariumwiary.pl",
+            "action": "zgloszenie.wilk2017@gmail.com",
             "alerts": {
               "success": "Dziękujemy :-)"
             },
@@ -566,15 +567,15 @@
           "title": "NAPISZ DO NAS",
           "subtitle": "Odpowiemy na każde zapytanie :-)",
           "form": {
-            "action": "info@albumy.pl",
+            "action": "sow.wilk2017@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Dziękujemy :-)"
             },
             "fields": {
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Name*"
+                "customTitle": "Imię"
               },
               "email": {
                 "title": "Email",
@@ -583,12 +584,12 @@
               },
               "phone": {
                 "title": "Phone",
-                "visible": true,
+                "visible": false,
                 "customTitle": "Phone"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Wiadomość"
               }
             }
           },
