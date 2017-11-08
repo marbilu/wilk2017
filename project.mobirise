@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "seminarium wiary",
-    "currentPage": "materialy.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -29,8 +29,6 @@
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": "",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-109346809-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-109346809-1');\r\n</script>\r\n"
@@ -204,9 +202,9 @@
               "linkInNewWindow": false
             },
             "video": {
-              "src": "https://www.youtube.com/watch?time_continue=12&v=osQgfxSpOyo",
+              "src": "https://youtu.be/NFZBz1ShcDA",
               "aspectratio": "16:9",
-              "autoplay": "on",
+              "autoplay": false,
               "loop": false,
               "active": true
             },
@@ -330,8 +328,8 @@
             }
           },
           "title2": "KIEDY I GDZIE?",
-          "subtitle2": "<b>7.11.2017</b> <b>- 19.12.2017</b><br><b>Parafia</b>&nbsp;<b>p.w.</b>&nbsp;<b>Najświętszej Rodziny</b><br><b style=\"line-height: 1.7857; text-align: left;\">Kraków-Nowy Bieżanów</b>",
-          "caption2": "Będziemy spotykać się od 7 listopada do 19 grudnia 2017 r. w każdy wtorek o godz. 18.00. Odbędzie się więc siedem spotkań. Możecie do nas dojechać środkami komunikacji miejskiej korzystając z linii tramwajowych <b><a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=3\" target=\"_blank\">3</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=9\" target=\"_blank\">9</a><a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=13\" target=\"_blank\">,13</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=23\" target=\"_blank\">23</a></b> oraz autobusowych <b><a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=133\" target=\"_blank\">133</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=163\" target=\"_blank\">163</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=183\" target=\"_blank\">183</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=243\" target=\"_blank\">243</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=503\" target=\"_blank\">503</a></b>. Ci, którzy lubią spacery mogą skorzystać też z pociągu jadącego z Balic ze stacji <b><a href=\"https://malopolskiekoleje.pl/index.php/trasy/wieliczka-rynek-kopalnia-krakow-glowny-krakow-lotnisko-airport\" target=\"_blank\">Kraków Lotnisko do Wieliczka Rynek Kopalnia</a> </b>wysiadając na stacji Kraków Bieżanów. Poniżej umieściliśmy mapkę, byście mogli zaplanować dojazd. Będziemy uradowani Waszą obecnością w naszym sanktuarium i zapewniamy, że nie tylko czeka Was niesamowita przygoda w odkrywaniu Żywego Boga, ale wierzymy, że będzie ona również pięknym przygotowaniem do świętowania Bożego Narodzenia.&nbsp;",
+          "subtitle2": "<b>7.11.2017</b> <b>- 19.12.2017</b><br><b>Parafia</b>&nbsp;<b>p.w.</b>&nbsp;<b>Najświętszej Rodziny</b><br><b style=\"line-height: 1.7857; text-align: left;\">Kraków-Nowy Bieżanów</b><br>",
+          "caption2": "Spotykamy się od 7 listopada do 19 grudnia 2017 r. w każdy wtorek o godz. 18.00. <br><br><b>Nagranie z pierwszej konferencji jest dostępne na <a href=\"#top\">górze strony</a>.<br>Zapraszamy serdecznie na kolejne sześć spotkań</b>. <br><br>Możecie do nas dojechać środkami komunikacji miejskiej korzystając z linii tramwajowych <b><a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=3\" target=\"_blank\">3</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=9\" target=\"_blank\">9</a><a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=13\" target=\"_blank\">,13</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=23\" target=\"_blank\">23</a></b> oraz autobusowych <b><a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=133\" target=\"_blank\">133</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=163\" target=\"_blank\">163</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=183\" target=\"_blank\">183</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=243\" target=\"_blank\">243</a>,<a href=\"http://rozklady.mpk.krakow.pl/?lang=PL&amp;rozklad=20170904&amp;linia=503\" target=\"_blank\">503</a></b>. Ci, którzy lubią spacery mogą skorzystać też z pociągu jadącego z Balic ze stacji <b><a href=\"https://malopolskiekoleje.pl/index.php/trasy/wieliczka-rynek-kopalnia-krakow-glowny-krakow-lotnisko-airport\" target=\"_blank\">Kraków Lotnisko do Wieliczka Rynek Kopalnia</a> </b>wysiadając na stacji Kraków Bieżanów. Poniżej umieściliśmy mapkę, byście mogli zaplanować dojazd. Będziemy uradowani Waszą obecnością w naszym sanktuarium i zapewniamy, że nie tylko czeka Was niesamowita przygoda w odkrywaniu Żywego Boga, ale wierzymy, że będzie ona również pięknym przygotowaniem do świętowania Bożego Narodzenia.&nbsp;",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
