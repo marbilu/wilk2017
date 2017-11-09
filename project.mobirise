@@ -26,7 +26,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 58,
-    "versionPublish": "4.4.1",
+    "versionPublish": "4.4.0",
     "favicon": "",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -647,7 +647,7 @@
           },
           "text1": "Sanktuarium Najświętszej Rodziny<br>w Krakowie - Nowym Bieżanowie<br>Parafia p.w. Najświętszej Rodziny<br>ul. Aleksandry 1, 30-837 Kraków<br>tel. i fax 12 658-03-50,<br>tel. 12 658-62-66<br><a href=\"http://najswietszarodzina.pl/informacje_o_sanktuarium,1.html\" target=\"_blank\" class=\"text-black\">www.najswietszarodzina.pl</a><br>",
           "text2": "",
-          "text3": "<p>wspierają nas:<br>\n<a href=\"https://youngtree.pl\" class=\"text-black\" target=\"_blank\">www.YoungTree.pl</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"http://fundacjazanim.pl\" target=\"_blank\" class=\"text-black\">Fundacja Za Nim</a><br><a href=\"http://bogatysklep.pl\" class=\"text-black\" target=\"_blank\">BOGAtySklep.pl</a></p>"
+          "text3": "<p>wspierają nas:<br>\n<a href=\"https://www.facebook.com/YoungTree.eu/\" class=\"text-black\">@YoungTree.eu</a><br>\n<a href=\"http://fundacjazanim.pl\" target=\"_blank\" class=\"text-black\">Fundacja Za Nim</a></p><p><a href=\"http://bogatysklep.pl\" class=\"text-black\">BOGAtySklep.pl</a><br><a href=\"http://pallotti.fm\" class=\"text-black\" target=\"_blank\">pallotti.fm</a><br>\n<a href=\"http://pallotti.fm\" class=\"text-black\"></a></p>"
         }
       ]
     },
@@ -1275,7 +1275,7 @@
           },
           "text1": "Sanktuarium Najświętszej Rodziny<br>w Krakowie - Nowym Bieżanowie<br>Parafia p.w. Najświętszej Rodziny<br>ul. Aleksandry 1, 30-837 Kraków<br>tel. i fax 12 658-03-50,<br>tel. 12 658-62-66<br><a href=\"http://najswietszarodzina.pl/informacje_o_sanktuarium,1.html\" target=\"_blank\" class=\"text-black\">www.najswietszarodzina.pl</a><br>",
           "text2": "",
-          "text3": "<p>wspierają nas:<br>\n<a href=\"https://youngtree.pl\" class=\"text-black\" target=\"_blank\">www.YoungTree.pl</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"http://fundacjazanim.pl\" target=\"_blank\" class=\"text-black\">Fundacja Za Nim</a><br><a href=\"http://bogatysklep.pl\" class=\"text-black\" target=\"_blank\">BOGAtySklep.pl</a></p>",
+          "text3": "<p>wspierają nas:<br>\n<a href=\"https://www.facebook.com/YoungTree.eu/\" class=\"text-black\">@YoungTree.eu</a><br>\n<a href=\"http://fundacjazanim.pl\" target=\"_blank\" class=\"text-black\">Fundacja Za Nim</a></p><p><a href=\"http://bogatysklep.pl\" class=\"text-black\">BOGAtySklep.pl</a><br><a href=\"http://pallotti.fm\" class=\"text-black\" target=\"_blank\">pallotti.fm</a><br>\n<a href=\"http://pallotti.fm\" class=\"text-black\"></a></p>",
           "_anchor": "contacts1-y"
         }
       ]
