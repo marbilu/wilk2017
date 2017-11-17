@@ -1,8 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
 
 
 
@@ -485,12 +487,20 @@ h6,
 #content1-4 B {
   color: #efefef;
 }
-#msg-box5-a B {
+#msg-box1-20 H2 {
+  color: #232323;
+  text-align: right;
+  font-family: 'Merriweather', serif;
+  font-size: 48px;
+}
+#msg-box1-20 H3 {
+  text-align: right;
+  font-family: 'Raleway', sans-serif;
   font-size: 36px;
 }
-#msg-box5-a H3 {
-  font-family: 'Merriweather', serif;
+#msg-box1-20 B {
   font-size: 46px;
+  font-family: 'Raleway', sans-serif;
 }
 #content1-b DIV {
   text-align: center;
@@ -502,6 +512,10 @@ h6,
 }
 #content1-b P {
   color: #efefef;
+}
+#msg-box8-1w .mbr-section-title,
+#msg-box8-1w p {
+  color: #fff;
 }
 #features1-3 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #7c706b;
