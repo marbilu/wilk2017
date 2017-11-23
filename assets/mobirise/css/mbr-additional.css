@@ -1,8 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
 
 
 
@@ -490,7 +491,7 @@ h6,
 #msg-box1-20 H2 {
   color: #232323;
   text-align: right;
-  font-family: 'Merriweather', serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 48px;
 }
 #msg-box1-20 H3 {
@@ -501,6 +502,10 @@ h6,
 #msg-box1-20 B {
   font-size: 46px;
   font-family: 'Raleway', sans-serif;
+}
+#msg-box1-20 SPAN {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 60px;
 }
 #content1-b DIV {
   text-align: center;
