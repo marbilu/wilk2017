@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "seminarium wiary",
-    "currentPage": "index.html",
+    "currentPage": "materialy.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 80,
+    "uniqCompNum": 81,
     "versionPublish": "4.4.0",
     "favicon": "",
     "noImageResize": "",
@@ -939,6 +939,44 @@
           ],
           "_name": "content5",
           "_anchor": "content5-1k"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Modlitwa wstawiennicza &nbsp;informacja dla wstawienników\n",
+          "text": "<p><br></p><p><b>TO BÓG DZIAŁA – NIE MY\n</b></p><p><u>I. Różnorodność modlitwy wstawienniczej\n</u></p><p>\n</p><p>Nie ma jednego obowiązującego wszystkich schematu modlitwy wstawienniczej. Każda modlitwa jest i będzie inna, bo różne są wspólnoty, różni są sami wstawiennicy oraz osoba, z którą i w intencji której się modlą, różne są intencje, wreszcie różna sytuacja zewnętrzna.<span style=\"font-size: 1.07rem;\">&nbsp;</span></p><p><u>II. Dlaczego więc podajemy tu „schemat”?\n</u></p><p>\n</p><p>Informacja ta ma na celu wsparcie osób, które rozpoczynają posługę modlitwy wstawienniczej, wskazówki poddawane są pod rozwagę, mogą bowiem przyczynić się do bardziej świadomego podjęcia posługi, mogą też wspomóc i dodać odwagi wstawiennikowi.<span style=\"font-size: 1.07rem;\">&nbsp;</span></p><p><u>III. Cel modlitwy wstawienniczej\n</u></p><p>\n</p><p>Celem modlitwy wstawienniczej jest oddanie chwały Bogu i zanurzenie w Jego chwale życia, problemów i intencji danej osoby. <b>UWAGA! Nie jest celem modlitwy rozwiązanie problemów czy uzdrowienie osoby. To czyni Pan Bóg, kiedy i jak zechce.</b></p><p><u>IV. Kto może być wstawiennikiem?\n</u></p><p>\n</p><p>Każdy jest powołany do wstawiania się za innymi i możemy to robić zawsze i wszędzie, ważne, byśmy robili to szczerze, z miłością.\n</p><p>Jednak osoba, która stale posługuje modlitwą wstawienniczą (np. we wspólnocie) powinna:\n</p><p>- prowadzić życie sakramentalne;\n</p><p>\n</p><p>- mieć osobistą relację z Chrystusem (modlitwa osobista, rozeznawanie);\n</p><p>\n</p><p>- stale weryfikować, czy Jezus jest w centrum jej życia;\n</p><p>\n</p><p>- pielęgnować w sobie postawę słuchającego (umieć słuchać Boga i ludzi);\n</p><p>\n</p><p>- pielęgnować w sobie pokorę;\n</p><p>\n</p><p>- być dyskretna i emocjonalnie zdystansowana;\n</p><p>\n</p><p>- kochać człowieka takim, jaki jest i szanować jego wolność;\n</p><p>\n</p><p>- być uporządkowana i dojrzała emocjonalnie, by nie przenosić swoich problemów na drugiego człowieka.<span style=\"font-size: 1.07rem;\">&nbsp;</span></p><p><u>V. Jak się przygotować do modlitwy nad kimś lub z kimś, czyli do modlitwy wstawienniczej?\n</u></p><p>\n</p><p>- stan łaski uświęcającej (najlepiej w dniu modlitwy przyjąć Komunię św.);\n</p><p>- uświadomić sobie, że Jezus był pierwszy przy tej osobie i to On ją do nas przyprowadza, a nie my przyprowadzamy ją do Jezusa czy ściągamy miłosierdzie lub uzdrowienie;\n</p><p>- mieć przy sobie Pismo św.<span style=\"font-size: 1.07rem;\">&nbsp;</span></p><p><u>VI. Przebieg modlitwy wstawienniczej\n</u></p><p>\n</p><p>- dobieramy się w pary i ustalamy, kto prowadzi modlitwę – wtedy drugi jest mu posłuszny, ale się modli i słucha Boga.\n</p><p>UWAGA! Ważna jest jedność – drugi wstawiennik, kiedy się modli, uwzględnia kierunek nadawany przez prowadzącego, równocześnie słuchając w sercu Boga. Wstawiennicy nie przekrzykują się, uważają, żeby nie było ani chaosu, ani nadmiernej kontroli.\n</p><p>- po przedstawieniu się pytamy osobę, o co chce się pomodlić (może nie mówić tylko podać intencję jej wiadomą). <b>UWAGA! Modlimy się za osobę, która przyszła, jej życie, problemy, relacje, a NIE w intencji osób trzecich, np. męża, dzieci, teściowej itd.\n</b></p><p>- Nie boimy się kłaść rąk na osobie, nad którą się modlimy, bo jesteśmy w łasce uświęcającej – jednak za każdym razem pytamy tę osobę, czy możemy na niej położyć rękę, bo może to być dla niej niekomfortowe.\n</p><p>- Rozpoczynamy tę modlitwę od dziękowania Bogu za tę osobę, ZA JEGO MIŁOŚĆ WZGLĘDEM NIEJ, prosząc by się dała poznać tej osobie; wychwalamy Pana za jej przyjście do modlitwy i za to, co stanie się później. Właściwą prośbę przedstawiamy w jednym lub dwu zdaniach. <b>W Duchu Świętym powierzamy Bogu tę osobę i jej sprawę</b>. Ewentualnie posługujemy się Pismem św. Niczego nie wymuszamy ani na osobie, ani na Panu Bogu <b>polegając na prowadzeniu przez Ducha Świętego.\n</b></p><p>- <b>UWAGA! Nie sugerujemy rozwiązań problemów!\n</b></p><p>- Możemy przed zakończeniem modlitwy spytać, czy jeszcze o coś się pomodlić, bo mogły się oczy otworzyć na coś ważnego. Uwzględnić to w modlitwie. Zakończyć „Ojcze Nasz” lub „Chwała na wysokości”.\n</p><p><u>&nbsp;<span style=\"font-size: 1.07rem;\">VII. Zakończenie</span></u></p><p>\n</p><p>- Jak się da przytulić tę osobę i spytać jak się czuje;\n</p><p>- Dobrze jest zaprosić tę osobę na rekolekcje ewangelizacyjne lub do wspólnoty – dać kartkę z informacją lub własnym telefonem\n</p><p>- Jeszcze przez chwilę – już we dwójkę – pomodlić się za tę osobę, oddać ją Panu Jezusowi</p><p><u>VIII. Skuteczność\n</u></p><p>\n</p><p>Nie oceniamy jakości modlitwy i nie porównujemy się z innymi wstawiennikami. Owoce nie zależą od nas. Naszą posługę oraz każde niepotrzebnie wypowiedziane słowo oddajemy w zaufaniu Bogu.\n</p><p>\n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-28"
         },
         {
           "_params": {
