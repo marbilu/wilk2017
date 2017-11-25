@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 81,
+    "uniqCompNum": 85,
     "versionPublish": "4.4.0",
     "favicon": "",
     "noImageResize": "",
@@ -907,6 +907,69 @@
           },
           "text": "<p>\"<b>WSZYSTKO</b> <b>MOGĘ</b> <b>W TYM</b>, <b>KTÓRY</b> <b>MNIE</b> <b>UMACNIA</b>\".</p>",
           "_anchor": "content1-n"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "5",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/to2-2000x850.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "MODLITWA WSTAWIENNICZA",
+          "caption": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2c"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "16px",
+              "color": "#000000",
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "title": "Modlitwa wstawiennicza <br>informacja dla uczestników",
+          "meta": "<br>1.\tPrzystępujemy do modlitwy wstawienniczej będąc w stanie łaski uświęcającej, najlepiej po spowiedzi, dzięki temu możemy przyjąć więcej Bożych łask.\n<br><br>2.\tCzekając na nasz czas w kolejce, modlimy się indywidulanie lub z grupą animującą śpiew i uwielbienie za zespół, do którego się ustawiliśmy, jak i za siebie o wiarę oraz otwarcie na działanie Ducha Świętego<br>.\n<br>3.\tPo podejściu do zespołu  mówimy swe imię, oraz podajemy swój własny problem duchowy, grzech, słabość, chorobę, uzależnienie, zniewolenie, itp., które chcemy by Jezus uzdrowił, czy nas wyzwolił. Może to być też problem z przebaczeniem, zranienie z przeszłości, także prośba o uzdrowienie fizyczne. Więcej wskazówek, gdy chodzi o przedmiot modlitwy, będzie podane podczas i po konferencji.\n<br><br>4.\tNie prosimy o modlitwę za członków rodziny, przyjaciół, osoby w dużej potrzebie, w ogóle inne osoby. Możemy natomiast prosić o uzdrowienie naszej relacji z kimś innym.\n<br><br>5.\tMożemy być spokojni co do tematów i treści powierzanych wstawiennikom. Są zobowiązani do całkowitej dyskrecji, a wiedzę o omadlanym wykorzystują tylko do tej modlitwy.\n<br><br>6.\tPodczas modlitwy wstawienników nad Tobą, również módl się w skupieniu. Możesz zamknąć oczy i wyobrażać sobie Jezusa patrzącego na Ciebie z miłością i wyciągającego ku Tobie ręce. Możesz prosić Ducha Świętego, by przychodził i przyjmuj Go wewnętrznym aktem. Możesz uwielbiać Pana, za to, co dokonuje teraz w Tobie, że jest Panem i Zbawicielem działającym teraz dla Ciebie. \n<br><br>7.\tPo modlitwie idziemy na chwilę adoracji Najświętszego Sakramentu, by podziękować Jezusowi, za otrzymane łaski i by dopełnić daru modlitwy.\n<br><br>8.\tNie podchodzimy po raz drugi do innego zespołu wstawienników. Wierzymy, że Pan przyszedł i działał dzisiaj dla nas w tym jednym spotkaniu.&nbsp;<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2a"
         },
         {
           "_styles": {
