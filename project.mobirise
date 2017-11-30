@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "seminarium wiary",
-    "currentPage": "materialy.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 85,
+    "uniqCompNum": 86,
     "versionPublish": "4.4.0",
     "favicon": "",
     "noImageResize": "",
@@ -246,7 +246,7 @@
             "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "0",
-            "columns": "3",
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/to2-2000x850.jpg",
             "parallax": false,
@@ -298,10 +298,14 @@
           },
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencja3.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "https://youtu.be/2XJRVUFctTw",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media5": {
@@ -324,14 +328,14 @@
           "subtitle1": "7 listopada 2017",
           "caption1": "",
           "title2": "2. Boża Miłość",
-          "subtitle2": "14 listopad 2017",
+          "subtitle2": "14 listopada 2017",
           "caption2": "",
           "title3": "3. Grzech",
           "subtitle3": "21 listopada 2017",
           "caption3": "",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title4": "4. Zbawienie",
+          "subtitle4": "28 listopada 2017",
+          "caption4": "",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
