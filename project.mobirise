@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 90,
+    "uniqCompNum": 92,
     "versionPublish": "4.4.0",
     "favicon": "",
     "noImageResize": "",
@@ -362,7 +362,7 @@
             "showButtons": false,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "columns": "2",
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -402,10 +402,14 @@
           },
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencja6-550x308.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "https://youtu.be/-jZo2Lu4bvM",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media4": {
@@ -438,8 +442,8 @@
           "title2": "5. Wiara i nawrócenie",
           "subtitle2": "5 grudnia 2017",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "title3": "6 . Obietnica Ojca - Duch Święty",
+          "subtitle3": "12 grudnia 2017",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
