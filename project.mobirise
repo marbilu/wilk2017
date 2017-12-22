@@ -25,8 +25,8 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 92,
-    "versionPublish": "4.4.0",
+    "uniqCompNum": 93,
+    "versionPublish": "4.5.2",
     "favicon": "",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -362,7 +362,7 @@
             "showButtons": false,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "columns": "3",
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -414,10 +414,14 @@
           },
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencja7-493x277.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "https://youtu.be/iJURZqgEDQk",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media5": {
@@ -445,8 +449,8 @@
           "title3": "6 . Obietnica Ojca - Duch Święty",
           "subtitle3": "12 grudnia 2017",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
+          "title4": "7. Wzrost",
+          "subtitle4": "19 grudnia 2017",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
